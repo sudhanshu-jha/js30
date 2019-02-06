@@ -2,9 +2,8 @@
 
 My implementations of Javascript 30 day challenge
 
-### Prerequisites
+## Prerequisites
 
 HTML 5
 
-CSS  
-
+CSS
